@@ -4,7 +4,7 @@ Contains API keys and other sensitive configuration.
 """
 
 # Groq API Configuration
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "Hidden_because_of_Zeeshan "
 
 # Application Configuration
 APP_NAME = "AI Code Assistant"
